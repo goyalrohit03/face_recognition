@@ -1,4 +1,4 @@
-<img width="180" alt="Screenshot 2025-06-27 at 5 59 56 PM" src="https://github.com/user-attachments/assets/59cd1fc9-fefe-46cb-8d7a-eccda6f19713" /># Facial Recognition with JavaScript using face-api.js
+# Facial Recognition with JavaScript
 ### To start up the app:
 1. run npm install in the root directory
 2. run node on server.js
