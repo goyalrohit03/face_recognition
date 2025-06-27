@@ -14,7 +14,7 @@
     ])
 ```
 ### Example Output:
-Successfully recognizing Michael Jordan's face from a picture using your JavaScript project
+Successfully recognised Michael Jordan's face from a picture using your JavaScript project
 
 
 <img width="177" alt="Screenshot 2025-06-27 at 6 00 45 PM" src="https://github.com/user-attachments/assets/3521c1d0-8b34-40ea-87c9-b3c26649eea9" />
