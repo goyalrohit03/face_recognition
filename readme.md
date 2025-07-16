@@ -4,7 +4,7 @@
 2. run node on server.js
 3. go to http://localhost:3000
 
-### Loading 4 primary models:
+### Loading primary models:
 ``` javascript
     await Promise.all([
         faceapi.nets.ssdMobilenetv1.loadFromUri('./models'),
